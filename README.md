@@ -1,4 +1,4 @@
-# Projeto-Java-atividade-
+# Projeto-Java-atividades-
 
 // Classe base (superclasse)
 class Animal {
